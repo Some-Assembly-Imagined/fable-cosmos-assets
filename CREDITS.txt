@@ -41,3 +41,11 @@ Thatched Villagers Kevin MacLeod (incompetech.com) Licensed under Creative Commo
 Dreamer Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
 Enchanted Journey Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
 Comfortable Mystery Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+
+sfx-pack-1 (fight sounds): every sound is CC0-1.0 (public domain dedication); credit is given as thanks, not as a condition.
+- Kenney: https://opengameart.org/content/interface-sounds (10 sounds)
+- artisticdude: https://opengameart.org/content/rpg-sound-pack (14 sounds)
+- rubberduck: https://opengameart.org/content/100-cc0-metal-and-wood-sfx (5 sounds)
+- rubberduck: https://opengameart.org/content/100-cc0-sfx (10 sounds)
+- rubberduck: https://opengameart.org/content/100-cc0-sfx-2 (3 sounds)
+- rubberduck: https://opengameart.org/content/80-cc0-rpg-sfx (20 sounds)

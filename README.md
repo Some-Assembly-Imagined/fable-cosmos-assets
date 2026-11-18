@@ -102,3 +102,16 @@ Check with `sha256sum -c SHA256SUMS` from the root of this repository.
 | `enchanted_journey.m4a` | 3256767 | `b744708dc15a73929993b835bacb40d51257f90cff11d5243a1b277f806e8913` |
 | `comfortable_mystery.opus` | 2977352 | `40fb4f809ee2461bb624128f16b9a13977f95a80dfa8d8449874596fd993b43e` |
 | `comfortable_mystery.m4a` | 2879647 | `a7a2927465a7c80af214ff0af6ff4ac174e0833bec5fdfe8b0d755b1702ecfc3` |
+
+## sfx-pack-1: the fight sound pack
+
+62 short fight sounds (hits, misses, critical hits, spells by school family, healing, conditions, saves, creatures
+dropping, turn chimes, initiative, victory and defeat) in Ogg Opus (`.opus`, mono 40 kbps) and AAC-LC (`.m4a`, mono
+56 kbps), about 0.4 MB in all. The app bundles 18 core sounds and downloads these extra variants only when the GM asks,
+checking each file against the size and SHA-256 in `sfx-pack-1/pack_manifest.json`, which ships inside the app. Served
+from the tag `sfx-pack-1`, folder `sfx-pack-1/`:
+
+    https://raw.githubusercontent.com/Some-Assembly-Imagined/fable-cosmos-assets/sfx-pack-1/sfx-pack-1/<file>
+
+Every sound is CC0-1.0 from OpenGameArt packs by artisticdude, Kenney, rubberduck and cynicmusic; `CREDITS.txt` lists
+each source page.
